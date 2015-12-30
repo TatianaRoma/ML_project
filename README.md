@@ -10,3 +10,7 @@
 
 + Yelp_Plotting_Results has the code to plot precision and recall for our results
 
++ Yelp_WordClouds.R has the R code to create word clouds 
+
++ Yelp_get_rest_reviews.R has the code to get a sample of restaurant reviews
+
