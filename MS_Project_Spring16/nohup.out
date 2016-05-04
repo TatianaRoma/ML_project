@@ -1,0 +1,21 @@
+[I 05:16:06.206 NotebookApp] Serving notebooks from local directory: /home/ubuntu/yelp/Yelp_Review_Prediction/MS_Project_Spring16
+[I 05:16:06.206 NotebookApp] 0 active kernels 
+[I 05:16:06.206 NotebookApp] The IPython Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 05:16:06.206 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 05:17:00.855 NotebookApp] 302 GET / (67.244.39.156) 0.80ms
+[I 05:17:01.040 NotebookApp] 302 GET /tree (67.244.39.156) 0.67ms
+[I 05:17:07.195 NotebookApp] 302 POST /login?next=%2Ftree (67.244.39.156) 0.84ms
+[I 05:17:12.704 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 05:17:12.706 NotebookApp] Notebook Yelp_1000000_reviews_analysis.ipynb is not trusted
+[I 05:17:13.853 NotebookApp] Kernel started: 4276656b-72fa-4c4c-81cd-8e80d98bd4ec
+[I 05:19:13.919 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[I 17:51:27.301 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[I 17:53:27.076 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 18:28:57.505 NotebookApp] SSL Error on 8 ('202.109.143.27', 2121): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:56:21.337 NotebookApp] Notebook Yelp_50000_reviews_analysis.ipynb is not trusted
+[I 19:56:23.222 NotebookApp] Kernel started: 71e4da01-afa8-4ecd-8a65-ee484aab2dff
+[I 19:56:52.798 NotebookApp] Kernel shutdown: 71e4da01-afa8-4ecd-8a65-ee484aab2dff
+[I 19:57:28.835 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[I 19:59:26.891 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 20:01:33.979 NotebookApp] SSL Error on 10 ('162.216.46.13', 41014): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 21:31:27.542 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
