@@ -146,3 +146,97 @@ ERROR - failed to write data to stream:[I 12:41:04.852 NotebookApp] Kernel shutd
 [W 11:01:44.068 NotebookApp] SSL Error on 9 ('188.68.224.62', 56423): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
 [I 12:44:04.090 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
 [I 12:44:12.654 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:38:08.140 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Yelp_Review_Prediction/MS_Project_Spring16
+[I 20:38:08.140 NotebookApp] 0 active kernels 
+[I 20:38:08.141 NotebookApp] The IPython Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 20:38:08.141 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:38:18.169 NotebookApp] Notebook Yelp_1000000_reviews_analysis.ipynb is not trusted
+[I 20:38:19.340 NotebookApp] Kernel started: 75b759ed-5d4a-41cf-876c-f978f69af5b1
+[W 20:39:28.291 NotebookApp] Notebook RunningTimesExperiment.ipynb is not trusted
+[I 20:39:29.312 NotebookApp] Kernel started: b63c0ce7-ca16-47dd-b75f-b301bda71022
+[I 20:40:30.076 NotebookApp] Interrupted...
+[I 20:40:30.076 NotebookApp] Shutting down kernels
+[I 20:40:30.678 NotebookApp] Kernel shutdown: 75b759ed-5d4a-41cf-876c-f978f69af5b1
+[I 20:40:30.678 NotebookApp] Kernel shutdown: b63c0ce7-ca16-47dd-b75f-b301bda71022
+[I 20:42:13.022 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Yelp_Review_Prediction/MS_Project_Spring16
+[I 20:42:13.022 NotebookApp] 0 active kernels 
+[I 20:42:13.022 NotebookApp] The IPython Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 20:42:13.022 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:42:23.042 NotebookApp] Notebook RunningTimesExperiment.ipynb is not trusted
+[I 20:42:24.046 NotebookApp] Kernel started: e7805597-6a75-40c1-b0ed-2b13da24b8a5
+[I 20:44:25.528 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 20:44:25.528 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[I 20:44:49.457 NotebookApp] Interrupted...
+[I 20:44:49.457 NotebookApp] Shutting down kernels
+[I 20:44:49.858 NotebookApp] Kernel shutdown: e7805597-6a75-40c1-b0ed-2b13da24b8a5
+[I 20:45:59.696 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Yelp_Review_Prediction/MS_Project_Spring16
+[I 20:45:59.696 NotebookApp] 0 active kernels 
+[I 20:45:59.697 NotebookApp] The IPython Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 20:45:59.697 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:46:15.336 NotebookApp] Notebook RunningTimesExperiment.ipynb is not trusted
+[I 20:46:16.337 NotebookApp] Kernel started: 0802dbbb-2cf2-4f33-b990-3d5aae1a927c
+[W 20:46:32.646 NotebookApp] Notebook Yelp_1000000_reviews_analysis.ipynb is not trusted
+[I 20:46:33.787 NotebookApp] Kernel started: d0de9148-d53b-414b-a487-2d120aff62e5
+[I 20:48:16.599 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 20:48:16.600 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[I 20:50:16.603 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 20:50:16.603 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[I 20:52:16.474 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 20:52:16.474 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[I 21:00:17.147 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 21:00:17.148 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[W 23:35:19.144 NotebookApp] SSL Error on 8 ('80.82.78.38', 60034): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 23:46:17.012 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 23:46:17.013 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[I 02:04:34.466 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:04:34.467 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:08:33.903 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:08:33.903 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:10:16.512 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 02:10:16.513 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[I 02:10:33.995 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:10:33.995 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:11:35.394 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 02:11:35.394 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[I 02:12:33.973 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:12:33.974 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:13:49.905 NotebookApp] Kernel shutdown: d0de9148-d53b-414b-a487-2d120aff62e5
+[I 02:14:21.275 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 02:14:21.275 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[I 02:16:16.719 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 02:16:16.719 NotebookApp] Saving untrusted notebook RunningTimesExperiment.ipynb
+[I 02:16:45.635 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[W 02:16:58.147 NotebookApp] Notebook Yelp_1000000_reviews_analysis.ipynb is not trusted
+[I 02:16:59.225 NotebookApp] Kernel started: 6f840dcd-11f0-4f49-8b34-3a80fb785bf1
+[I 02:18:59.333 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:18:59.334 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:29:00.268 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:29:00.268 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:30:59.347 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:30:59.348 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 05:15:00.329 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 05:15:00.330 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 05:21:53.582 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 05:21:53.582 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 05:22:01.679 NotebookApp] Saving file at /RunningTimesExperiment.ipynb
+[I 05:24:59.328 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 05:24:59.329 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 05:26:59.949 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 05:26:59.950 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 05:36:59.668 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 05:36:59.669 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[W 08:07:43.220 NotebookApp] SSL Error on 8 ('93.174.93.218', 41865): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:07:48.627 NotebookApp] SSL Error on 8 ('93.174.93.218', 50528): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:07:55.029 NotebookApp] SSL Error on 8 ('93.174.93.218', 59649): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:28:33.109 NotebookApp] SSL Error on 8 ('108.9.139.156', 53487): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:28:34.210 NotebookApp] SSL Error on 8 ('108.9.139.156', 54304): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:28:35.297 NotebookApp] SSL Error on 8 ('108.9.139.156', 55300): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:33:18.050 NotebookApp] SSL Error on 8 ('123.59.59.52', 36448): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:34:07.944 NotebookApp] SSL Error on 8 ('93.174.93.218', 50467): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:34:10.366 NotebookApp] SSL Error on 8 ('93.174.93.218', 53225): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:34:16.774 NotebookApp] SSL Error on 8 ('93.174.93.218', 38316): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:44:00.009 NotebookApp] WebSocket ping timeout after 119948 ms.
+[W 06:44:16.771 NotebookApp] WebSocket ping timeout after 119815 ms.
+[W 16:56:29.765 NotebookApp] SSL Error on 44 ('80.82.78.38', 56450): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 18:07:39.902 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 18:07:39.903 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
