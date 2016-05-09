@@ -240,3 +240,187 @@ ERROR - failed to write data to stream:[I 12:41:04.852 NotebookApp] Kernel shutd
 [W 16:56:29.765 NotebookApp] SSL Error on 44 ('80.82.78.38', 56450): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
 [I 18:07:39.902 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
 [W 18:07:39.903 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 18:13:54.147 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 18:13:54.148 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 18:23:55.414 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 18:23:55.415 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 20:19:01.007 NotebookApp] Kernel shutdown: 6f840dcd-11f0-4f49-8b34-3a80fb785bf1
+[W 20:20:01.514 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 20:20:01.909 NotebookApp] Kernel started: 7e82718e-7b49-451c-8561-5a96ac55dec7
+[I 20:23:34.333 NotebookApp] Kernel shutdown: 7e82718e-7b49-451c-8561-5a96ac55dec7
+[W 20:23:42.225 NotebookApp] Notebook Yelp_Review_Rating_Prediction.ipynb is not trusted
+[I 20:23:43.325 NotebookApp] Kernel started: 465a514e-e49e-4fdf-984d-3e10e2f90ccb
+[I 20:37:43.734 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 20:37:43.735 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 20:39:43.417 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 20:39:43.418 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 20:41:43.377 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 20:41:43.378 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 20:45:43.492 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 20:45:43.492 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 20:47:43.416 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 20:47:43.417 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 20:48:07.048 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 20:48:07.049 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 20:48:25.063 NotebookApp] Kernel shutdown: 465a514e-e49e-4fdf-984d-3e10e2f90ccb
+[W 20:48:56.904 NotebookApp] Notebook Yelp_Review_Rating_Prediction.ipynb is not trusted
+[I 20:48:58.172 NotebookApp] Kernel started: 99e2c89e-4244-40bf-b10a-9baf21460cc7
+[I 20:50:58.287 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 20:50:58.288 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 20:51:09.934 NotebookApp] Kernel shutdown: 99e2c89e-4244-40bf-b10a-9baf21460cc7
+[W 20:51:14.673 NotebookApp] Kernel does not exist: 99e2c89e-4244-40bf-b10a-9baf21460cc7
+[W 20:51:14.673 NotebookApp] 404 POST /api/kernels/99e2c89e-4244-40bf-b10a-9baf21460cc7/interrupt (67.244.39.156) 1.54ms referer=https://ec2-52-87-180-221.compute-1.amazonaws.com:8888/notebooks/Yelp_Review_Rating_Prediction.ipynb
+[W 20:54:46.476 NotebookApp] Kernel does not exist: 99e2c89e-4244-40bf-b10a-9baf21460cc7
+[W 20:54:46.477 NotebookApp] 404 POST /api/kernels/99e2c89e-4244-40bf-b10a-9baf21460cc7/interrupt (67.244.39.156) 1.04ms referer=https://ec2-52-87-180-221.compute-1.amazonaws.com:8888/notebooks/Yelp_Review_Rating_Prediction.ipynb
+[I 20:55:00.839 NotebookApp] Kernel shutdown: 0802dbbb-2cf2-4f33-b990-3d5aae1a927c
+[W 20:55:11.051 NotebookApp] Notebook Yelp_Review_Rating_Prediction.ipynb is not trusted
+[I 20:55:12.223 NotebookApp] Kernel started: 706ab585-5d93-4db1-a5f3-e209002bd966
+[I 20:57:12.368 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 20:57:12.369 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 20:57:29.278 NotebookApp] Kernel started: 33dc127b-d398-4655-a158-8142e388a050
+[W 20:57:42.708 NotebookApp] Notebook Yelp_Logstic_Regression_all.ipynb is not trusted
+[I 20:57:43.191 NotebookApp] Kernel started: 8a91d619-318b-47e2-8e74-6db27fe1726b
+[I 20:59:12.310 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 20:59:12.311 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 20:59:46.900 NotebookApp] Kernel shutdown: 706ab585-5d93-4db1-a5f3-e209002bd966
+[W 20:59:50.662 NotebookApp] Notebook Yelp_Review_Rating_Prediction.ipynb is not trusted
+[I 20:59:51.911 NotebookApp] Kernel started: 34678492-cb7a-46b2-aef8-c23b73e12b44
+[I 21:00:20.236 NotebookApp] Saving file at /Yelp_Logstic_Regression_all.ipynb
+[W 21:00:20.237 NotebookApp] Saving untrusted notebook Yelp_Logstic_Regression_all.ipynb
+[I 21:00:50.222 NotebookApp] Kernel interrupted: 8a91d619-318b-47e2-8e74-6db27fe1726b
+[I 21:01:43.300 NotebookApp] Saving file at /Yelp_Logstic_Regression_all.ipynb
+[W 21:01:43.301 NotebookApp] Saving untrusted notebook Yelp_Logstic_Regression_all.ipynb
+[I 21:01:51.019 NotebookApp] Kernel shutdown: 8a91d619-318b-47e2-8e74-6db27fe1726b
+[W 21:01:52.740 NotebookApp] Notebook Yelp_Logstic_Regression_all.ipynb is not trusted
+[I 21:01:53.291 NotebookApp] Kernel started: e60b1a2d-32aa-479e-b527-546763521c06
+[I 21:02:08.246 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:02:08.247 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 21:02:33.423 NotebookApp] Kernel shutdown: e60b1a2d-32aa-479e-b527-546763521c06
+[I 21:15:52.437 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:15:52.438 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[W 21:19:15.184 NotebookApp] Notebook Yelp_1000000_reviews_analysis.ipynb is not trusted
+[I 21:19:16.414 NotebookApp] Kernel started: d700b0f6-48a7-497b-8b99-44cc3c62ebc4
+[W 21:19:26.723 NotebookApp] Notebook Yelp_Logstic_Regression_all.ipynb is not trusted
+[I 21:19:27.365 NotebookApp] Kernel started: d3d1337f-7978-4919-84fc-681c82026025
+[I 21:21:27.491 NotebookApp] Saving file at /Yelp_Logstic_Regression_all.ipynb
+[W 21:21:27.491 NotebookApp] Saving untrusted notebook Yelp_Logstic_Regression_all.ipynb
+[I 21:23:28.574 NotebookApp] Saving file at /Yelp_Logstic_Regression_all.ipynb
+[W 21:23:28.574 NotebookApp] Saving untrusted notebook Yelp_Logstic_Regression_all.ipynb
+[I 21:23:52.381 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:23:52.382 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 21:25:52.043 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:25:52.044 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[W 21:26:10.954 NotebookApp] Notebook Yelp_50000_reviews_analysis.ipynb is not trusted
+[I 21:26:13.079 NotebookApp] Kernel started: 4838b1ad-65eb-4cc5-bc7f-e31ae756f355
+[I 21:29:52.241 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:29:52.242 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 21:31:52.172 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:31:52.173 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 21:33:52.867 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:33:52.869 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 21:35:52.262 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:35:52.263 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 21:37:45.726 NotebookApp] Kernel shutdown: d3d1337f-7978-4919-84fc-681c82026025
+[W 21:37:48.363 NotebookApp] Notebook Yelp_Logstic_Regression_all.ipynb is not trusted
+[I 21:37:48.935 NotebookApp] Kernel started: 2089de13-04c6-4905-aa00-ceec1dee460f
+[I 21:39:00.887 NotebookApp] Kernel shutdown: 34678492-cb7a-46b2-aef8-c23b73e12b44
+[W 21:39:03.645 NotebookApp] Notebook Yelp_Review_Rating_Prediction.ipynb is not trusted
+[I 21:39:08.012 NotebookApp] Kernel started: 455844c5-6842-48f1-b4d1-540a79b3e0ad
+[I 21:39:49.133 NotebookApp] Saving file at /Yelp_Logstic_Regression_all.ipynb
+[W 21:39:49.134 NotebookApp] Saving untrusted notebook Yelp_Logstic_Regression_all.ipynb
+[I 21:41:08.191 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:41:08.192 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 21:45:08.187 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:45:08.189 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 21:46:06.854 NotebookApp] Kernel shutdown: 4838b1ad-65eb-4cc5-bc7f-e31ae756f355
+[I 21:47:08.097 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 21:47:08.098 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[W 21:50:08.191 NotebookApp] Notebook Yelp_1000000_reviews_analysis.ipynb is not trusted
+[I 21:52:09.760 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 21:52:09.761 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[W 21:52:48.202 NotebookApp] Notebook Yelp_50000_reviews_analysis.ipynb is not trusted
+[I 21:52:51.109 NotebookApp] Kernel started: 4b53c8a7-fb73-41d5-abf8-35c73f147e33
+[I 21:54:09.466 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 21:54:09.467 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 21:56:09.581 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 21:56:09.582 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 21:57:54.451 NotebookApp] Kernel interrupted: d700b0f6-48a7-497b-8b99-44cc3c62ebc4
+[I 21:58:09.461 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 21:58:09.462 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:00:09.564 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:00:09.565 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:02:09.613 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:02:09.614 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:04:10.617 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:04:10.617 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:06:10.187 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:06:10.188 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:09:49.195 NotebookApp] Saving file at /Yelp_Logstic_Regression_all.ipynb
+[W 22:09:49.196 NotebookApp] Saving untrusted notebook Yelp_Logstic_Regression_all.ipynb
+[I 22:14:10.158 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:14:10.159 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:15:49.173 NotebookApp] Saving file at /Yelp_Logstic_Regression_all.ipynb
+[I 22:16:09.426 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:16:09.427 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:18:09.392 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:18:09.393 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:32:09.764 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:32:09.765 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[W 22:34:52.278 NotebookApp] SSL Error on 12 ('120.132.50.135', 35674): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:34:52.732 NotebookApp] SSL Error on 13 ('123.59.59.52', 34924): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 22:36:10.160 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:36:10.161 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:38:10.169 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:38:10.169 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:42:09.541 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 22:42:09.542 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 22:43:49.629 NotebookApp] Saving file at /Yelp_Logstic_Regression_all.ipynb
+[I 22:46:01.434 NotebookApp] Kernel shutdown: 4b53c8a7-fb73-41d5-abf8-35c73f147e33
+[I 22:46:06.330 NotebookApp] Kernel shutdown: 33dc127b-d398-4655-a158-8142e388a050
+[W 23:00:36.587 NotebookApp] SSL Error on 13 ('106.187.52.160', 47728): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:00:44.292 NotebookApp] SSL Error on 13 ('106.187.52.160', 55926): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 23:01:08.840 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 23:01:08.841 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 23:29:08.597 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 23:29:08.597 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 00:31:08.681 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 00:31:08.682 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 00:33:08.134 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 00:33:08.135 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 02:00:10.247 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:00:10.248 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:02:10.154 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:02:10.155 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:05:08.152 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 02:05:08.152 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 02:06:09.432 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:06:09.433 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:08:09.636 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:08:09.637 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 02:32:10.587 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 02:32:10.588 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 03:00:09.762 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:00:09.763 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 03:02:09.423 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:02:09.423 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 03:04:09.461 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:04:09.462 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[W 03:05:21.901 NotebookApp] SSL Error on 12 ('93.174.93.218', 56582): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:05:23.501 NotebookApp] SSL Error on 12 ('93.174.93.218', 56975): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:05:27.931 NotebookApp] SSL Error on 12 ('93.174.93.218', 60552): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 03:06:09.420 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:06:09.421 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 03:06:36.435 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:06:36.436 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 03:06:43.917 NotebookApp] Saving file at /Yelp_Review_Rating_Prediction.ipynb
+[W 03:06:43.918 NotebookApp] Saving untrusted notebook Yelp_Review_Rating_Prediction.ipynb
+[I 03:14:09.845 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:14:09.846 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 03:28:09.811 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:28:09.812 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 03:44:11.614 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:44:11.615 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 03:48:09.455 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:48:09.455 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
+[I 03:50:09.389 NotebookApp] Saving file at /Yelp_1000000_reviews_analysis.ipynb
+[W 03:50:09.390 NotebookApp] Saving untrusted notebook Yelp_1000000_reviews_analysis.ipynb
